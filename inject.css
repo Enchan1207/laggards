@@ -13,6 +13,12 @@
     display: none;
 }
 
-a[href="/explore"], a[aria-label="コミュニティ"], a[aria-label="認証済み組織"], a[aria-label="求人"], a[aria-label="プレミアム"], a[aria-label="Grok"], a[href="/i/verified-choose"] {
+a[href="/explore"],
+a[aria-label="コミュニティ"],
+a[aria-label="認証済み組織"],
+a[aria-label="求人"],
+a[aria-label="プレミアム"],
+a[aria-label="Grok"],
+a[href="/i/verified-choose"] {
     display: none;
 }

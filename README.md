@@ -1,6 +1,6 @@
 # laggards
 
-laggards make your Twitter (X) UI simplier!
+laggards simplifies Twitter (X) UI!
 
 ## Overview
 
