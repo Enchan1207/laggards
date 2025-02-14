@@ -1,20 +1,23 @@
-# Laggards
+# laggards
 
-**取り残されよう。**  
-**追いつくのは、自分が欲したときでいい。**
+laggards make your Twitter (X) UI simplier!
 
 ## Overview
 
-Laggardsは、Twitterのトレンドに関する表示を全て非表示にすることを目的としたChrome拡張機能です。  
-左ペインの「話題を検索」および右ペインの「いまどうしてる?」、「おすすめユーザー」を非表示にします。
+This is an Google Chrome extension to simplify UI of Twitter (X).
 
-![how it works?](howitworks.png)
+There are a lot of unnecessary components in Twitter of nowadays:
+
+- **Side buttons**: who needs *Recruits*, *Grok*, *Community* and more?
+- **Trends**: it make you tired.
+- **Suggested accounts**: it's meddling!
+
+laggards make them disappeared.
 
 ## Usage
 
-パッケージ化していないので、現時点では直接インストールすることはできません。  
-`chrome://extensions` のページ右上にある「デベロッパー モード」を有効にし、左側の「パッケージ化されていない拡張機能を読み込む」から  
-クローンしたリポジトリのディレクトリを選択してください。
+Currently you need to install it using *developer mode*.
+In details, see [official manual](https://support.google.com/chrome/a/answer/2714278).
 
 ## License
 

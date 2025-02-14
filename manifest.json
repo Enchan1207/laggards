@@ -1,6 +1,6 @@
 {
-    "name": "Laggards",
-    "description": "追いつくのは、自分が欲したときでいい。",
+    "name": "laggards",
+    "description": "laggards make Twitter UI simplier.",
     "version": "0.1.0",
     "manifest_version": 3,
     "permissions": [
